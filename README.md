@@ -1,6 +1,6 @@
 # API Node.js con MongoDB en la Nube
 
-Este proyecto tiene como objetivo desarrollar una API robusta utilizando Node.js y Express.js, diseñada para gestionar de manera eficiente una colección de recetas culinarias. La API permite realizar operaciones CRUD para manejar recetas, proporcionando un servicio escalable y bien estructurado para aplicaciones gastronómicas.
+Este proyecto tiene como objetivo desarrollar una API utilizando Node.js y Express.js. La API permite realizar operaciones CRUD para manejar recetas.
 
 ## Estructura de la Receta
 
